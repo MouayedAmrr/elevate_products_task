@@ -2,4 +2,4 @@
 
 ## 📸 App Screenshot
 
-![App UI](assets/screenshoot/screenshot1.png)
+![App UI](assets/screenshoot/Screenshot1.png)
